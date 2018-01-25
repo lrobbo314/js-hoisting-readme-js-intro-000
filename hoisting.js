@@ -8,11 +8,10 @@ function callMe() {
 }
 
 
-var thisIsCrazy;
 
 function crazy() {
   // fix the code in here:
-
+  thisIsCrazy();
 
   var thisIsCrazy = function() {
     console.log("hey!!!")
@@ -31,7 +30,4 @@ function sayMyName() {
     console.log(name);
     var name = "Kristin";
   }
-}
-
-var name = "Kristin";
 }
