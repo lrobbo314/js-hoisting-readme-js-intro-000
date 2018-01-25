@@ -9,6 +9,7 @@ function callMe() {
 
 
 var thisIsCrazy;
+
 function crazy() {
   // fix the code in here:
 
@@ -32,6 +33,6 @@ function sayMyName() {
   }
 }
 
-    var name = "Kristin";
-  }
+var name = "Kristin";
+}
 }
